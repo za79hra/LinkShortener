@@ -1,0 +1,6 @@
+{"phone_number": "09222757928"}
+
+{ "phone_number": "09222757928", "otp": "2406"}
+
+
+{"orginal_url":  "https://google.com"}
